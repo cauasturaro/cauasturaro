@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-I am a back-end developer passionate about technology and cybersecurity. Currently, I am enhancing my skills in web development, automation, and data analysis. My goal is to build efficient and scalable solutions, always exploring new technologies and best practices in software engineering.
+I am a full-stack developer passionate about technology and cybersecurity. Currently, I am enhancing my skills in web development, automation, and data analysis. My goal is to build efficient and scalable solutions, always exploring new technologies and best practices in software engineering.
 
 ---
 
