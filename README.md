@@ -44,7 +44,7 @@ I am a full-stack developer passionate about technology and cybersecurity. Curre
       alt="GitHub Stats" 
       height="200" 
       width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssturro&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssturaro&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>
