@@ -37,13 +37,13 @@ I am a full-stack developer passionate about technology and cybersecurity. Curre
 ### 📈 GitHub Stats
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
     width="400"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cauasturaro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=cauasturaro&show_icons=true&theme=tokyonight&locale=pt-br"
   />
 
 <img 
