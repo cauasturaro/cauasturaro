@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-I am a full-stack developer passionate about technology and cybersecurity. Currently, I am enhancing my skills in java, spring and git. My goal is to build efficient and scalable solutions, always exploring new technologies and best practices in software engineering.
+I am a full-stack developer passionate about technology and cybersecurity. Currently, I am enhancing my skills in java. My goal is to build efficient and scalable solutions, always exploring new technologies and best practices in software engineering.
 
 ---
 
