@@ -38,10 +38,6 @@ I am a full-stack developer passionate about technology and cybersecurity. Curre
 ---
 
 ### 📈 GitHub Stats
-
----
-
-### 📈 GitHub Stats
 <p align="left">
   <img 
     height="170" 
@@ -49,7 +45,7 @@ I am a full-stack developer passionate about technology and cybersecurity. Curre
     src="https://github-readme-stats-one-bice.vercel.app/api?username=cauasturaro&show_icons=true&theme=tokyonight&count_private=true" 
   />
   <img 
-    height="170" 
+    height="155" 
     width="390"
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=cauasturaro&layout=compact&theme=tokyonight" 
   />
