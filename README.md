@@ -39,19 +39,15 @@ I am a full-stack developer passionate about technology and cybersecurity. Curre
 
 ### 📈 GitHub Stats
 
-<p>
-  <img
-    align="left"
-    height="200"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=cauasturaro&show_icons=true&theme=tokyonight"
-  />
+---
 
-<img
-  align="left"
-  height="200"
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauasturaro&layout=compact&theme=tokyonight"
-/>
+### 📈 GitHub Stats
 
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauasturaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauasturaro&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
+
+</div>
+
