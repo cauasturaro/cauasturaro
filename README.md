@@ -43,11 +43,8 @@ I am a full-stack developer passionate about technology and cybersecurity. Curre
 
 ### 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauasturaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauasturaro&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
-
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=ElianTM&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ElianTM&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>>
 
