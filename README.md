@@ -1,4 +1,4 @@
-# 🪐 Cauã Sturaro
+# Cauã Sturaro
 
 **`Full-stack Developer`**
 
