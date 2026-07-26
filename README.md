@@ -67,7 +67,8 @@ const caua = {
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,flask,prisma,postgres,mysql,socketio&theme=dark" alt="backend" />
 
 **Testing &amp; QA**<br/>
-<img src="https://skillicons.dev/icons?i=vitest,jest,playwright&theme=dark" alt="testing" />
+<img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" alt="testing" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" />
 
 **DevOps &amp; Tools**<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,gitlab,cloudflare,aws&theme=dark" alt="devops" />
