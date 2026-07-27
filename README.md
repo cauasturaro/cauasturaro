@@ -58,7 +58,7 @@ const caua = {
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,c,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,c&theme=dark" alt="languages" />
 
 **Front-End**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,vite,tailwind&theme=dark" alt="frontend" />
