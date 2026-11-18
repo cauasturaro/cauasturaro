@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/signature.gif" width="640" alt="Red animation cycling between CS initials, a weight matrix, and a layered neural network" />
+  <img src="assets/signature.gif" width="640" alt="Red animation of the initials CS transforming into a weight matrix and a neural network" />
 </p>
 
 <h1 align="center">Cauã Sturaro</h1>
@@ -10,28 +10,25 @@
 </p>
 
 <p align="center">
+  I build the app and measure how well the model does its job.<br/>
+  <em>Sometimes the right model is the smaller one.</em>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/cau%C3%A3-sturaro-a26467342/">LinkedIn</a> ·
   <a href="mailto:sturaro.contato@gmail.com">Email</a> ·
   <a href="https://gitlab.com/cauasturaro">GitLab</a>
 </p>
 
-<p align="center">
-  I turn ideas into AI-native products.
-</p>
-
 <br/>
 
 <p align="center">
-  <code>Mastra</code>
-  <code>LangGraph</code>
-  <code>Langfuse</code>
-  <code>pgvector</code>
-  <code>RAG</code>
-  <code>LLM Evals</code>
+  <b>Agents &amp; retrieval</b> · <code>Mastra</code> <code>LangGraph</code> <code>RAG</code> <code>pgvector</code><br/>
+  <b>Training &amp; evaluation</b> · <code>PyTorch</code> <code>Fine-tuning</code> <code>LLM Evals</code> <code>Langfuse</code>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,nestjs,fastapi,postgres,mongodb,redis,rabbitmq,aws,docker,githubactions,git,vitest,jest&amp;perline=10&amp;theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,pytorch,sklearn,java,react,nextjs,tailwind,nodejs,nestjs,fastapi,postgres,mongodb,redis,rabbitmq,aws,docker,githubactions,git,vitest,jest&amp;perline=11&amp;theme=dark" alt="Development stack including TypeScript, Python, PyTorch, React, PostgreSQL, AWS and Docker" />
 </p>
 
 <br/>
